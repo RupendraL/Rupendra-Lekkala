@@ -1,2 +1,2 @@
-# This Repo is for My Self Projects
+# This Repo is for My Projects
 Author - Rupendra Lekkala 
